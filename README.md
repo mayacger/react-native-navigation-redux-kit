@@ -14,6 +14,8 @@ App is using Facebook's new Native standalone React-Navigation library for navig
 ```
 yarn
 
+react-native link
+
 ```
 ## 包含 drawer tab
 
